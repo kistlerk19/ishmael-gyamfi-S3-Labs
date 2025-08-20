@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Training](https://img.shields.io/badge/Training-DevOps-green.svg)](https://aws.amazon.com/training/)
 
-A comprehensive hands-on laboratory series designed for DevOps professionals and AWS Solutions Architect Associate certification preparation. This repository contains step-by-step instructions, deliverables, and practical exercises covering essential Amazon S3 features and best practices.
+This repository contains step-by-step instructions, deliverables, and practical exercises covering essential Amazon S3 features and best practices.
 
 ## 🎯 Learning Objectives
 
